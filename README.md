@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Qaisar-Ali17/Qaisar-Ali17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Qaisar%20Ali&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
