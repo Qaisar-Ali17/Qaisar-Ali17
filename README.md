@@ -125,11 +125,11 @@ Summarizes webpages using AI.
 
 ---
 ## 📊 GitHub Statistics
-
+[
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qaisar-Ali17&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaisar-Ali17&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+</p>](https://github-readme-stats.vercel.app/api?username=Qaisar-Ali17&show_icons=true&theme=tokyonight)
 
 # 🔥 GitHub Streak
 
