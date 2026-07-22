@@ -1,14 +1,3 @@
-## Hi there 👋
-
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Qaisar-Ali17/Qaisar-Ali17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Qaisar%20Ali&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
@@ -26,17 +15,16 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Qaisar-Ali17">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
-![](https://komarev.com/ghpvc/?username=Qaisar-Ali17&style=for-the-badge&color=blue)
+<img src="https://komarev.com/ghpvc/?username=Qaisar-Ali17&style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -48,8 +36,8 @@
 - 🎓 BSCS Final Year Student
 - 🤖 Passionate about AI & Automation
 - 🌱 Currently learning Next.js, Docker & System Design
-- 🚀 Building scalable Full Stack applications
-- 📍 Pakistan
+- 🚀 Building scalable Full Stack Applications
+- 📍 Lahore, Pakistan
 
 ---
 
@@ -95,21 +83,17 @@
 
 ## 🤖 AI Interview Platform
 
-> AI-powered interview preparation platform built using MERN Stack.
+AI-powered interview preparation platform built using MERN Stack.
 
-### Tech Stack
-
-React • Node.js • Express • MongoDB
+**Tech:** React • Node.js • Express • MongoDB
 
 ---
 
 ## 📄 PDF Parser System
 
-> Extracts pharmaceutical distributor reports into structured Excel files.
+Extracts pharmaceutical distributor reports into structured Excel files.
 
-### Tech Stack
-
-Python • Django • Pandas
+**Tech:** Python • Django • Pandas
 
 ---
 
@@ -124,29 +108,37 @@ Modern responsive portfolio showcasing projects and skills.
 Summarizes webpages using AI.
 
 ---
-## 📊 GitHub Statistics
-[
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qaisar-Ali17&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaisar-Ali17&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>](https://github-readme-stats.vercel.app/api?username=Qaisar-Ali17&show_icons=true&theme=tokyonight)
 
-# 🔥 GitHub Streak
+# 📊 GitHub Statistics
 
 <p align="center">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Qaisar-Ali17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Qaisar-Ali17&theme=tokyonight"/>
-
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Qaisar-Ali17&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 🔥 GitHub Streak
 
 <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Qaisar-Ali17&theme=tokyonight"/>
+</p>
 
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Qaisar-Ali17/Qaisar-Ali17/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qaisar-Ali17&theme=tokyo-night"/>
-
 </p>
 
 ---
@@ -154,18 +146,16 @@ Summarizes webpages using AI.
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Qaisar-Ali17&theme=tokyonight&row=1&column=7"/>
-
 </p>
 
 ---
 
 # 💻 Coding Profiles
 
-- 🌐 Portfolio : https://your-portfolio.vercel.app
-- 💼 LinkedIn : https://linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email : qaisarali17@gmail.com
+- 🌐 Portfolio: YOUR_PORTFOLIO_URL
+- 💼 LinkedIn: YOUR_LINKEDIN_URL
+- 📧 Email: qaisarali17@gmail.com
 
 ---
 
